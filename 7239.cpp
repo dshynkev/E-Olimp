@@ -16,7 +16,7 @@ int main()
 {
 	unsigned long long t1, t2;
 	cin >> t1 >> t2;
-	cout << lcm(t1, t2);
+	cout << lcm(t1, t2)<<endl;
 	return 0;
 }
 
